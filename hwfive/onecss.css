@@ -5,6 +5,8 @@ body { font-family: Georgia; color: #FFDAB9; background-color: #556B2F;}
 /* The code below modifies all the content within the <h1> tags */
 
 h1 { font-family: Helvetica; color:#FFDAB9; }
+h2 { font-family: Helvetica; color:#FFDAB9; }
+h4 { font-family: Garamond; color:#FFDAB9; }
 
 p {border-top-style: solid;
   border-right-style: none;

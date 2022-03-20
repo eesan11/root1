@@ -6,3 +6,9 @@ body { font-family: Georgia; color: #FFDAB9; background-color: #556B2F;}
 
 h1 { font-family: Helvetica; color:#FFDAB9; }
 
+p {border-top-style: solid;
+  border-right-style: none;
+  border-bottom-style: solid;
+  border-left-style: none;
+}
+
